@@ -27,5 +27,5 @@ Include 25_Apps_JComponent.conf
 Include 26_Apps_WordPress.conf
 Include 27_Apps_WPPlugin.conf
 Include 28_Apps_WHMCS.conf
-Include 29_Apps_Drupal.conf
+# Include 29_Apps_Drupal.conf
 Include 30_Apps_OtherApps.conf
