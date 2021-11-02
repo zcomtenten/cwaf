@@ -10,10 +10,10 @@ Include 08_Global_Other.conf
 # Include 09_Bruteforce_Bruteforce.conf
 # Include 10_HTTP_HTTP.conf
 # Include 11_HTTP_HTTPDoS.conf
-Include 12_HTTP_Protocol.conf
+# Include 12_HTTP_Protocol.conf
 Include 13_HTTP_Request.conf
 Include 14_Outgoing_FilterGen.conf
-Include 15_Outgoing_FilterASP.conf
+# Include 15_Outgoing_FilterASP.conf
 Include 16_Outgoing_FilterPHP.conf
 Include 17_Outgoing_FilterSQL.conf
 Include 18_Outgoing_FilterOther.conf
