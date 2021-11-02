@@ -7,9 +7,9 @@ Include 05_Global_Incoming.conf
 Include 06_Global_Backdoor.conf
 Include 07_XSS_XSS.conf
 Include 08_Global_Other.conf
-Include 09_Bruteforce_Bruteforce.conf
-Include 10_HTTP_HTTP.conf
-Include 11_HTTP_HTTPDoS.conf
+# Include 09_Bruteforce_Bruteforce.conf
+# Include 10_HTTP_HTTP.conf
+# Include 11_HTTP_HTTPDoS.conf
 Include 12_HTTP_Protocol.conf
 Include 13_HTTP_Request.conf
 Include 14_Outgoing_FilterGen.conf
