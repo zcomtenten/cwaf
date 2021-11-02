@@ -1,6 +1,6 @@
 Include 00_Init_Initialization.conf
 Include 01_Init_AppsInitialization.conf
-Include 02_Global_Generic.conf
+# Include 02_Global_Generic.conf
 Include 03_Global_Agents.conf
 Include 04_Global_Domains.conf
 Include 05_Global_Incoming.conf
